@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           leading: Icon(Icons.ondemand_video_outlined),
           centerTitle: false,
           title: Text(
-              'KBOYのFlutter大学'
+              'FukueのvideoStreaming'
           ),
           actions: [
             IconButton(
